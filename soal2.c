@@ -1,3 +1,4 @@
+// Referensi dari geeksforgeeks "The Water Jug Problem"
 #include <stdio.h>
 
 int fpb(int a, int b){
